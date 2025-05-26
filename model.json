@@ -297,6 +297,8 @@
 { "name": "sequential/batch\_normalization\_1/gamma", "shape": \[128], "dtype": "float32" },
 { "name": "sequential/batch\_normalization\_1/beta", "shape": \[128], "dtype": "float32" },
 { "name": "sequential/batch\_normalization\_1/moving\_mean", "shape": \[128], "dtype": "float32" },
-{ "name": "sequential/batch\_normalization\_1/moving\_variance", "shape": \[128], "dtype": "float32" },
-
-> > > truncated due to length <<<
+{ "name": "sequential/batch\_normalization\_1/moving\_variance", "shape": \[128], "dtype": "float32" } 
+]
+  }
+]
+}
